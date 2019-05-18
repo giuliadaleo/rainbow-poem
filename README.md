@@ -1,5 +1,5 @@
 # rainbow-poem
-This is my poem about rainbows.
+This is my poem about rainbows unicorns and fairies.
 
 rosso
 arancione 
@@ -16,7 +16,9 @@ mancano
 indaco 
 voletto
 
-questi sono i colori degli unicorni, also.
+questi sono i colori degli unicorni and delle fate, also.
 
 i hate unicorns
 because they are mainstream
+i prefer fairies
+because they are indie
