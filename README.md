@@ -16,3 +16,8 @@ verde
 azzurro 
 
 anche loro sono colori dell'arcobaleno.
+
+
+mancano 
+indaco 
+voletto
