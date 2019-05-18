@@ -10,3 +10,9 @@ giallo
 
 
 theese are the rainbow colours.
+
+
+verde
+azzurro 
+
+anche loro sono colori dell'arcobaleno.
