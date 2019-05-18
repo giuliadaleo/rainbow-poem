@@ -1,9 +1,6 @@
 # rainbow-poem
 This is my poem about rainbows.
 
-
-
-
 rosso
 arancione 
 giallo 
@@ -21,3 +18,5 @@ anche loro sono colori dell'arcobaleno.
 mancano 
 indaco 
 voletto
+
+questi sono i colori degli unicorni, also.
